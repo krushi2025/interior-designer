@@ -33,9 +33,8 @@ const Index = () => {
             <div>
               <h3 className="font-serif text-xl text-white mb-6">Elite Interior</h3>
               <p className="text-white/70 leading-relaxed">
-                Crafting exceptional interior experiences that transform spaces into timeless
-                expressions of sophistication and style.
-              </p>
+                Crafting exceptional interior experiences that transform spaces.
+           </p>
               <div className="flex gap-4 mt-6">
                 <a href="#" className="text-white/70 hover:text-luxury-gold" aria-label="Instagram">
                   <Instagram size={20} />
