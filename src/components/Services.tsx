@@ -6,7 +6,7 @@ import {
   ShoppingBag, 
   Pencil, 
   ScanLine, 
-  FlowerBud 
+  Flower
 } from 'lucide-react';
 
 const services = [
@@ -38,7 +38,7 @@ const services = [
   {
     title: "Styling & Decoration",
     description: "Curated selection of art, accessories, and finishing touches that bring personality and warmth to your space.",
-    icon: FlowerBud
+    icon: Flower
   }
 ];
 

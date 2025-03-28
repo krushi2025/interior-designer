@@ -1,4 +1,3 @@
-
 import React from 'react';
 import Navbar from '@/components/Navbar';
 import Hero from '@/components/Hero';
@@ -7,7 +6,7 @@ import About from '@/components/About';
 import Services from '@/components/Services';
 import Testimonials from '@/components/Testimonials';
 import Contact from '@/components/Contact';
-import { Instagram, Facebook, Pinterest, ArrowUp } from 'lucide-react';
+import { Instagram, Facebook, Twitter, ArrowUp } from 'lucide-react';
 
 const Index = () => {
   const scrollToTop = () => {
@@ -44,8 +43,8 @@ const Index = () => {
                 <a href="#" className="text-white/70 hover:text-luxury-gold" aria-label="Facebook">
                   <Facebook size={20} />
                 </a>
-                <a href="#" className="text-white/70 hover:text-luxury-gold" aria-label="Pinterest">
-                  <Pinterest size={20} />
+                <a href="#" className="text-white/70 hover:text-luxury-gold" aria-label="Twitter">
+                  <Twitter size={20} />
                 </a>
               </div>
             </div>
